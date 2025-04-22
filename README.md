@@ -2,7 +2,7 @@
 Game-Feature-Development
 
 📊 Project Requirements Breakdown - Phase 2 (Excel Overview)
-This Excel document provides a comprehensive breakdown of the requirements for Phase 2 of the Pi Game project. It contains multiple sheets that serve different purposes throughout the project lifecycle:
+This Excel document provides a breakdown of the requirements for Phase 2 of the Pi Game project. It contains multiple sheets that serve different purposes throughout the project lifecycle:
 
 1. Phase 1 - Requirement Change
 This sheet captures all requirement changes made during Phase 1. It includes descriptions of the changes, reasons for the updates, and their potential impact on the overall system.
